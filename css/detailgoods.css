@@ -1,0 +1,32 @@
+body{
+  background-size: 700px 500px;
+  vertical-align: middle;
+  text-align: center;
+  display:table-cell;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+#others{
+  background-color: black;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  position:absolute;;
+  left:50%;
+  margin-left: 50px;
+  line-height: 50px;
+  margin-left: 150px;
+}
+label{
+  background-color: white;
+  border: 1px solid ;
+  font-size: 20px;
+  padding: 3px 65px 3px 65px;
+
+}
+input[type=text]{
+  font-size: 15px;
+}
+input[type=submit]{
+  padding: 3px 65px 3px 65px;
+}

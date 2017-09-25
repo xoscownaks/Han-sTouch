@@ -1,0 +1,18 @@
+body{
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+#login_logo{
+  width: 200px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
+.container{
+  vertical-align: middle;
+}
+input[type=text], input[type=password]{
+  padding: 10px 20px 10px 20px;
+}

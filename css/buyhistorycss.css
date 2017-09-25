@@ -1,0 +1,17 @@
+th{
+	border-bottom: 1px solid black;
+}
+td{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+table{
+	border: 1px solid black;
+	margin: 0px;
+}
+td > img{
+	width: 100px;
+	height: 100px;
+}

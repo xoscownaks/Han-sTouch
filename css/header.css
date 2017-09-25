@@ -1,0 +1,17 @@
+#logo{
+  float:left;
+  margin-left:35px;
+  margin-top:5px;
+}
+#login{
+  float:right;
+  margin-right:20px;
+}
+#join{
+  float:right;
+  margin-right:20px;
+}
+
+a{
+  text-decoration:none;
+}
